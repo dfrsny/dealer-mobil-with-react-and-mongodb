@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "New Electric SUV Hits the Market",
+        "description": "A leading automotive manufacturer has launched a new electric SUV, boasting advanced features, sustainable technology, and an impressive range.",
+        "coverImage": "news-1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Breakthrough in Autonomous Driving Technology",
+        "description": "Researchers have made significant advancements in autonomous driving technology, paving the way for safer and more efficient transportation solutions.",
+        "coverImage": "news-2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "New Hybrid Sedan Offers Exceptional Fuel Efficiency",
+        "description": "The latest hybrid sedan from a major automaker offers exceptional fuel efficiency and innovative technology for a greener driving experience.",
+        "coverImage": "news-3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Sports Car Manufacturer Unveils Latest Model",
+        "description": "A renowned sports car manufacturer has unveiled its latest model, featuring cutting-edge performance capabilities and a stunning design.",
+        "coverImage": "news-4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "New Safety Features in 2024 Car Models",
+        "description": "Major car manufacturers are introducing new safety features in their 2024 models, including enhanced collision avoidance systems and advanced driver assistance technologies.",
+        "coverImage": "news-5.jpg"
+    }
+]

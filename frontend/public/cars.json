@@ -1,0 +1,146 @@
+[
+  {
+    "_id": 1,
+    "title": "Toyota Camry 2024",
+    "description": "Sleek and efficient, the Toyota Camry 2024 is perfect for those seeking style and performance.",
+    "category": "sedan",
+    "trending": true,
+    "coverImage": "camry-2024.png",
+    "newPrice": 429000000
+  },
+  {
+    "_id": 2,
+    "title": "Honda Civic 2024",
+    "description": "The Honda Civic 2024 offers a perfect balance of modern design and fuel efficiency.",
+    "category": "sedan",
+    "trending": true,
+    "coverImage": "civic-2024.png",
+    "newPrice": 369000000
+  },
+  {
+    "_id": 3,
+    "title": "Toyota Fortuner 2024",
+    "description": "Built for adventure, the Toyota Fortuner 2024 offers robust performance for all terrains.",
+    "category": "suv",
+    "trending": true,
+    "coverImage": "fortuner-2024.png",
+    "newPrice": 550000000
+  },
+  {
+    "_id": 4,
+    "title": "Honda CR-V 2024",
+    "description": "The Honda CR-V 2024 provides spacious comfort combined with innovative technology.",
+    "category": "suv",
+    "trending": false,
+    "coverImage": "crv-2024.png",
+    "newPrice": 570000000
+  },
+  {
+    "_id": 5,
+    "title": "Toyota Avanza 2024",
+    "description": "Toyota Avanza 2024, the ideal family car with ample space and excellent fuel efficiency.",
+    "category": "mpv",
+    "trending": true,
+    "coverImage": "avanza-2024.png",
+    "newPrice": 215000000
+  },
+  {
+    "_id": 6,
+    "title": "Honda Brio 2024",
+    "description": "Compact and stylish, the Honda Brio 2024 is perfect for city driving.",
+    "category": "hatchback",
+    "trending": true,
+    "coverImage": "brio-2024.png",
+    "newPrice": 170000000
+  },
+  {
+    "_id": 7,
+    "title": "Toyota Hilux 2024",
+    "description": "The Toyota Hilux 2024 is a powerful pickup truck built for tough jobs.",
+    "category": "pickup",
+    "trending": false,
+    "coverImage": "hilux-2024.png",
+    "newPrice": 450000000
+  },
+  {
+    "_id": 8,
+    "title": "Honda Accord 2024",
+    "description": "Elegant and powerful, the Honda Accord 2024 is designed for a smooth driving experience.",
+    "category": "sedan",
+    "trending": true,
+    "coverImage": "accord-2024.png",
+    "newPrice": 580000000
+  },
+  {
+    "_id": 9,
+    "title": "Toyota Yaris 2024",
+    "description": "The Toyota Yaris 2024 is a compact hatchback that offers excellent fuel efficiency and style.",
+    "category": "hatchback",
+    "trending": true,
+    "coverImage": "yaris-2024.png",
+    "newPrice": 260000000
+  },
+  {
+    "_id": 10,
+    "title": "Honda HR-V 2024",
+    "description": "Sporty and versatile, the Honda HR-V 2024 is an ideal suv for urban explorers.",
+    "category": "suv",
+    "trending": false,
+    "coverImage": "hrv-2024.png",
+    "newPrice": 400000000
+  },
+  {
+    "_id": 11,
+    "title": "Honda Mobilio 2024",
+    "description": "Compact and versatile, the Honda Mobilio 2024 is ideal for family trips and urban commuting.",
+    "category": "mpv",
+    "trending": true,
+    "coverImage": "mobilio-2024.png",
+    "newPrice": 250000000
+  },
+  {
+    "_id": 12,
+    "title": "Honda WR-V 2024",
+    "description": "The Honda WR-V 2024 combines style and functionality, offering a perfect compact SUV experience.",
+    "category": "suv",
+    "trending": true,
+    "coverImage": "wr-v-2024.png",
+    "newPrice": 295000000
+  },
+  {
+    "_id": 13,
+    "title": "Honda BR-V 2024",
+    "description": "The Honda BR-V 2024 is a spacious and versatile MPV, perfect for family adventures.",
+    "category": "mpv",
+    "trending": true,
+    "coverImage": "br-v-2024.png",
+    "newPrice": 330000000
+  },
+  {
+    "_id": 14,
+    "title": "Honda Civic RS 2024",
+    "description": "The Honda Civic RS 2024 offers sporty performance and advanced technology, making every drive exciting.",
+    "category": "sedan",
+    "trending": true,
+    "coverImage": "civic-rs-2024.png",
+    "newPrice": 440000000
+  },
+  {
+    "_id": 15,
+    "title": "Honda Civic Type R 2024",
+    "description": "The Honda Civic Type R 2024 is a high-performance hatchback designed for car enthusiasts.",
+    "category": "hatchback",
+    "trending": true,
+    "coverImage": "civic-type-r-2024.png",
+    "newPrice": 780000000
+  },
+  {
+    "_id": 16,
+    "title": "Honda BR-V N7X 2024",
+    "description": "The Honda BR-V N7X 2024 features a bold design and spacious interior, suitable for modern families.",
+    "category": "mpv",
+    "trending": true,
+    "coverImage": "br-v-n7x-2024.png",
+    "newPrice": 385000000
+  }
+]

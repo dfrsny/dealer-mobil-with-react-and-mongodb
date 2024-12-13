@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Dewi Lestari",
+        "text": "The staff was very helpful and I found the perfect vehicle!",
+        "coverImage": "testi-2.jpeg" 
+    },
+    {
+        "id": 2,
+        "name": "Mawar Sulastri",
+        "text": "Highly recommend! Excellent service and a friendly atmosphere.",
+        "coverImage": "testi-3.jpg" 
+    },
+    {
+        "id": 3,
+        "name": "Rina Wijayanti",
+        "text": "I love my new car! The process was so smooth.",
+        "coverImage": "testi-4.jpeg"
+    }
+]
